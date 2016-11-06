@@ -1,12 +1,12 @@
 # Webpack-React-HotReaload boilerplate
-## with build in Stylus
+## with built in Stylus
 
 ## What does it have*
 
 - __webpack__ itself
 - __hot-reload__ with _browserSync_
 - __ReactJS__ + __Redux__
-- __Stylus__ _(with adoptor to PostCCS: [poststylus](https://github.com/seaneking/poststylus))_
+- __Stylus__ _(with adaptor to PostCCS: [poststylus](https://github.com/seaneking/poststylus))_
 - __PostCSS__
 
 *_the whole list of dependencies you can find in `package.json` file_
