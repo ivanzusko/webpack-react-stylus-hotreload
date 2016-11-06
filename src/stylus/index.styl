@@ -1,0 +1,15 @@
+/* Stylus file to connect others */
+
+/* connect whole folder with all files */
+@import 'some/*';
+/* connect exact file */
+@import br;
+/* go out from current dir and connect another neccessary file/folder */
+@import '../components/*';
+
+/* or you can just add your styles rigth here */
+body
+    background: linear-gradient(160deg,rgba(49,142,223,.85),rgba(70,195,64,.85))
+
+.test
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
