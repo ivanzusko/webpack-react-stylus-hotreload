@@ -3,7 +3,7 @@
 
 ## What does it have*
 
-- __webpack __ itself
+- __webpack__ itself
 - __hot-reload__ with _browserSync_
 - __ReactJS__ + __Redux__
 - __Stylus__ _(with adoptor to PostCCS: [poststylus](https://github.com/seaneking/poststylus))_
